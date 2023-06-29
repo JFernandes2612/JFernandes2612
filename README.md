@@ -1,4 +1,4 @@
-### Hi there, I am Joel Fernandes 👋
+### Hi there, I am Joel Fernandes  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 #### 📚 Currently taking my MSc in Informatics and Computing Engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) 
 
