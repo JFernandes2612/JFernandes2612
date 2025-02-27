@@ -7,8 +7,8 @@
 #### 👀 My main Compsci interests are:
 - 🌐📳☁️ DevOps
 - 🤖🛠👩‍💻 IoT and Robotics
-- 💻⚙️🔧 Embeded and Low Level systems
-- 💾🧠👩‍💻 Backend systems
+- 💻⚙️🔧 Embedded and Low Level systems
+- 💾🧠👩‍💻 Backend development
 
 #### :wrench: Languages and tools 
 
